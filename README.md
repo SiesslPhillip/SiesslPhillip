@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Phillip</h1>
 <h3 align="center">DevOps Engineer and Backend Developer from Austria</h3>
 
+- 🔭 I’m currently working on **Odoo Kubernetes Operators and Automation**
+
+- 👯 I’m looking to collaborate on **Kubernetes**
+
+- 📫 How to reach me **phillip.siessl@grueneerde.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/phillip-siessl-035426226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phillip siessl" height="30" width="40" /></a>
